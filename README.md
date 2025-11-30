@@ -91,7 +91,7 @@ mysql -u username -p HospitalDB < HospitalDB.sql
 
 ## 🖼 Screenshots / ER Diagram
 
-![Project Screenshot](screenshot.png)
+[Project Screenshot](Screenshot%202025-11-30%20183623.png)
 [View ER Diagram](https://github.com/Nita-max/SQL_CaseStudy/blob/main/ER%20digram.png)
 
 ## 📄 License
