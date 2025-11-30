@@ -91,10 +91,8 @@ mysql -u username -p HospitalDB < HospitalDB.sql
 
 ## 🖼 Screenshots / ER Diagram
 
-* **ER Diagram:** [Insert your ER diagram image here or link]
-  *(Add screenshots of table structure for better understanding)*
-
----
+[Project Screenshot](Screenshot%202025-11-30%20183623.png)
+[View ER Diagram](https://github.com/Nita-max/SQL_CaseStudy/blob/main/ER%20digram.png)
 
 ## 📄 License
 
